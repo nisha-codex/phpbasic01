@@ -1,1 +1,11 @@
 index.php
+
+# if we want our all java file present in the folder must be ignored by git thn 
+
+# SYNTAX - *.java
+
+# * means all
+#   .java is extension of  java file
+
+#   if we have amy folder which we do not want to upload and keep it inside gitignore file then 
+#   SYNTAX - foldername/
